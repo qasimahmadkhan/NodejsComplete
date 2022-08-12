@@ -15,6 +15,15 @@ main {
   margin: auto;
 }
 
+.image{
+  max-height: 20rem;
+}
+
+.image img{
+  height: 100%;
+}
+
+
 form {
   display: inline;
 }
